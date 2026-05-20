@@ -1,0 +1,9 @@
+{
+  "name": "C++ Dev Container",
+  "dockerFile": "Dockerfile",
+  "runArgs": ["--platform=linux/amd64"],
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-vscode.cmake-tools"
+  ]
+}
